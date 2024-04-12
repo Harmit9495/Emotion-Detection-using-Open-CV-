@@ -1,5 +1,7 @@
 # Emotion-Detection-using-Open-CV-
+Facial expressions serve as windows to our emotions, spanning a range from happiness to anger. In this exploration, we delve into the realm of real-time facial emotion recognition using the synergy of deep learning and OpenCV. This endeavor isn't just about computers comprehending emotions; it's also about refining human-computer interactions and emotional intelligence. The project entails constructing a Convolutional Neural Network (CNN), the cornerstone of our emotion recognition model, comprehending its intricate architecture, layers, and parameters. Subsequently, we transition to training the machine learning model, feeding it labeled data to adeptly classify various facial expressions. Finally, we implement real-time emotion detection through OpenCV, interfacing a computer camera with the model to instantly capture and display emotions. To embark on this journey, Visual Studio Code (VSCode) and Python installations are essential, while the dataset for training can be obtained from Kaggle via the provided link.
 
+Kaggle Link : (https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset/)
 Research project that focuses on recognizing emotions using face recognition and NLP. The project is developed by Emory NLP lab.
 
 ### Note
