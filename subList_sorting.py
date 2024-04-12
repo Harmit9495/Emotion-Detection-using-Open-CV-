@@ -1,7 +1,6 @@
 '''
-Created on May 12, 2017
 
-@author: almasM
+
 '''
 
 from fuzzywuzzy import fuzz
